@@ -1,1 +1,1 @@
-Sitemap: https://kmrasmussen.github.io/fastpages/sitemap.xml
+Sitemap: https://kmrasmussen.github.io/blog/sitemap.xml
